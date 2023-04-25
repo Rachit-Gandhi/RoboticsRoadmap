@@ -31,7 +31,7 @@
     "yaspeller": "^7.0.0"
   },
   "dependencies": {
-    "prism-themes": "^1.5.0",
+    "prism-themes": "^1.9.0",
     "vuepress-plugin-container": "^2.1.5"
   }
 }
